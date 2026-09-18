@@ -1,4 +1,4 @@
-## Hi there <img src="./assets/meow_photo.gif" width="20">
+## Hi, nice to meet you! <img src="./assets/meow_photo.gif" width="20">
 
 #### Computer Science @ UNAM
 
@@ -32,7 +32,7 @@ Deep learning approach for distinguishing genuine and forged signatures.
 <details>
 <summary><b>Nothing here...</b></summary>
 
-I'm like cats, sleep, reading and thinking about future... <img src="./assets/meow_lesbian.png" width="18">
+I like cats, sleep, reading and thinking about future... <img src="./assets/meow_lesbian.png" width="18">
 
 I enjoy to see how world is improving and bring help when needed
 
