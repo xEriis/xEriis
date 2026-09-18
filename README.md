@@ -21,8 +21,13 @@ Deep learning approach for distinguishing genuine and forged signatures.
 [View project!](https://github.com/xEriis/RedesNeuronales/tree/Master/Proyecto)
 
 ---
+<p aling="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xEriis&layout=compact)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=xEriis&layout=compact&theme=radical)
+
+</p>
+
 
 <details>
 <summary><b>Nothing here...</b></summary>
